@@ -84,8 +84,8 @@ Comparing how LLMs and the human brain process information, to improve legal LLM
 
 ### 🧩 What I bring
 
-- ⚖️ **Legal expertise** in French, EU and US law, focused on legal compliance, AI and technology
-- 🌏 **Cross-border practice** across the US, Europe and Asia
+- ⚖️ **Legal expertise** in French, EU, US and English law
+- 🌏 **Cross-border advisory and litigation experience** spanning Europe, Asia and the US
 - 📊 **Quantitative legal modeling** experience
 - 🗣️ **Languages:** French · English · Korean
 
@@ -98,10 +98,13 @@ Comparing how LLMs and the human brain process information, to improve legal LLM
 | | |
 |---|---|
 | **Now** | Managing Partner, Archè SELARL (Paris) · Guest lecturer, Université Paris Cité and Aix-Marseille Université |
-| **Before** | Legal & Compliance, Samsung Electronics UK (European HQ) · Practice in Singapore, South Korea and France |
-| **Roles** | Legal Expert, HEC Incubator at Station F · Consultative Committee Member, European Law Institute · Regional Governor (EU – France), International Association of Korean Lawyers |
-| **Highlight** | 🏅 Represented Olympic athletes before the CAS at the Paris 2024 Olympic Games |
-| **Education** | LLB, University College London · Master's in Law, Economics and Management (EU Law), Paris 1 Panthéon-Sorbonne |
+| **Advisory** | International Legal Advisor for Foreign Asset Recovery, Korea Deposit Insurance Corporation (KDIC) · Content Business Advisory Board, Korea Creative Content Agency (KOCCA) · Legal Expert for 20+ startups, HEC Incubator at Station F |
+| **Before** | Legal & Compliance, Samsung Electronics UK (European HQ) · Legal experience in Singapore, South Korea and France |
+| **Roles** | General Secretary, France-Korea Chamber of Commerce and Industry (CCICF) · Regional Governor (EU – France), International Association of Korean Lawyers · Consultative Committee Member, European Law Institute |
+| **Highlight** | 🏅 Paris 2024 Olympic & Paralympic Games: represented athletes before the Court of Arbitration for Sport (Ad Hoc, Anti-Doping and Appeal Divisions) |
+| **Recognition** | Shortlisted, ELI Young Lawyers Award (joint paper, 2022) · Paper shortlisted for an international conference, Universitat Pompeu Fabra (2022) |
+| **Memberships** | French Association for Competition Law Studies (AFEC) · France Esports, Law & Legislation Working Group · Mensa |
+| **Education** | LLB, University College London (2016) · Master's in EU and International Law, Paris 1 Panthéon-Sorbonne (2020) · Health & Medical Law qualifying programme, AP-HP and EFB (2025–2026) |
 
 ➡️ Full CV, conferences and certifications: [kimavocat.com](https://www.kimavocat.com)
 
@@ -112,7 +115,3 @@ Comparing how LLMs and the human brain process information, to improve legal LLM
 `Esports law` `Legal services innovation & access to justice` `Digital transformation & accountability` `Environmental accountability` `Quantitative legal modeling`
 
 📚 Read the papers: [Publications repository](https://github.com/habbine/Publications-) · [SSRN](https://ssrn.com/author=4745485)
-
-Esports law · legal services innovation & access to justice · digital transformation & accountability · environmental accountability · quantitative legal modeling
-
-Papers: [Publications repository](https://github.com/habbine/Publications-) · [SSRN](https://ssrn.com/author=4745485)
