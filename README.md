@@ -11,6 +11,7 @@ Looking for engineers, scientists and economists to build with.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kim--avocat-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kim-avocat/)
 [![SSRN](https://img.shields.io/badge/SSRN-Author%20page-1F4E79?style=flat-square)](https://ssrn.com/author=4745485)
 [![Publications](https://img.shields.io/badge/GitHub-Publications-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/habbine/Publications-)
+[![Sponsor](https://img.shields.io/badge/Sponsor-BridgeLLM-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/habbine)
 
 </div>
 
@@ -26,22 +27,24 @@ Looking for engineers, scientists and economists to build with.
 
 | # | Project | Output | Looking for |
 |:---:|---|---|---|
-| 1 | [📖 AI & legal glossary](#1-ai--legal-glossary) · ⭐ *start here* | Open structured glossary | Anyone curious |
+| 1 | [🌉 BridgeLLM](#1-bridgellm) · ⭐ *start here* | Bilingual engineering/legal AI + glossary | NLP/LLM engineers, knowledge engineers, partners & sponsors |
 | 2 | [📐 Quantitative compliance models](#2-quantitative-legal-compliance-models) | Scoring framework + paper | Data scientists, mathematicians, developers |
 | 3 | [🌱 Sustainability efficiency model](#3-sustainability-efficiency-measurement) | Revised, peer-reviewed model | Econometricians, mathematicians, economists |
 | 4 | [🧠 Neuroscience-inspired legal LLMs](#4-neuroscience-inspired-legal-llms) | Dataset + benchmark | Neuroscientists, ML engineers, lawyers |
 
-<a id="1-ai--legal-glossary"></a>
+<a id="1-bridgellm"></a>
 
-#### 1. 📖 AI & legal glossary: mapping the regulatory gap
+#### 1. 🌉 BridgeLLM: an AI that speaks both engineering and law
 ![Best place to start](https://img.shields.io/badge/Best%20place%20to%20start-2E7D32?style=flat-square)
 
-A shared glossary of AI and technology terms showing where legal compliance and enforcement lag behind technology.
+A bilingual AI system that understands engineering and legal language, detects domain false friends, and maps product descriptions to EU and US regulations (AI Act and GDPR first), with source citations and questions for lawyers. It is built on my critical AI & legal glossary; a first draft of the glossary book is already written.
 
 | | |
 |---|---|
-| **Output** | An open, structured glossary: term · technical definition · legal status by jurisdiction · identified gap |
-| **Contribute** | [ai-legal-glossary](https://github.com/habbine/ai-legal-glossary): add a term or challenge a definition |
+| **Output** | An open bilingual engineering/legal model with cited regulatory mapping |
+| **Looking for** | NLP/LLM engineers · knowledge engineers · partners & sponsors |
+| **Repository** | [BridgeLLM](https://github.com/habbine/BridgeLLM) |
+| **Support** | 💖 [Sponsor BridgeLLM on GitHub](https://github.com/sponsors/habbine) |
 
 <a id="2-quantitative-legal-compliance-models"></a>
 
